@@ -1,0 +1,1 @@
+This is another file resulting from the excercise on Theia
